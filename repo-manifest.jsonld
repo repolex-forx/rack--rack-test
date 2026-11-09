@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/rack/rack-test/commit/b3bfdbc79e6e69eb4e63994ec7d1e15130680054",
       "git:hexsha": "b3bfdbc79e6e69eb4e63994ec7d1e15130680054",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v2.3.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v2.3.0",
+      "repolex:parsedAt": "2026-11-09T21:58:41.131375+00:00"
     },
     {
       "@id": "https://repolex.ai/r/rack/rack-test/commit/f79784993ca4c6ff7e0fa4aaca36b47881af2d62",
