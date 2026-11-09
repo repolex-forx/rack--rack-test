@@ -1,0 +1,11 @@
+{
+  "org": "rack",
+  "repo": "rack-test",
+  "versions": [
+    {
+      "commit": "b3bfdbc79e6e69eb4e63994ec7d1e15130680054",
+      "tag": "v2.3.0",
+      "parsed_at": "2026-11-09T21:58:41.131958+00:00"
+    }
+  ]
+}
