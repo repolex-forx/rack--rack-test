@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/rack/rack-test/commit/b3bfdbc79e6e69eb4e63994ec7d1e15130680054",
       "git:hexsha": "b3bfdbc79e6e69eb4e63994ec7d1e15130680054",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v2.3.0"
     },
     {
